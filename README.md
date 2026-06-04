@@ -122,7 +122,3 @@ http://127.0.0.1:8000/docs
 * Learning management systems
 * Student retention programs
 * Academic performance monitoring
-
-## 📜 License
-
-MIT License
